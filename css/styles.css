@@ -149,7 +149,7 @@ a:hover {
   text-decoration: none;
 }
 
-@media (max-width: 1028px){
+/* @media (max-width: 1028px){
 	.intro {
     width: 60%;
 	}
@@ -160,4 +160,4 @@ a:hover {
 .contact-msg {
     width: 60%;
     }
-}
+} */
